@@ -1,0 +1,11 @@
+term,selection_freq,is_interaction,is_income_int,survives,partner_var
+INCOME3_x_EDUCA,1.0,True,True,True,EDUCA
+INCOME3_x_EXERANY2,1.0,True,True,True,EXERANY2
+INCOME3_x__SMOKER3,1.0,True,True,True,_SMOKER3
+INCOME3_x_DIABETES,0.94,True,True,True,DIABETES
+INCOME3_x_CVDSTRK3,0.9,True,True,True,CVDSTRK3
+INCOME3_x_DRNKANY6,0.9,True,True,True,DRNKANY6
+INCOME3_x_ASTHMA3,0.78,True,True,True,ASTHMA3
+INCOME3_x_MEDCOST1,0.78,True,True,True,MEDCOST1
+INCOME3_x__URBSTAT,0.62,True,True,True,_URBSTAT
+INCOME3_x_CVDCRHD4,0.52,True,True,True,CVDCRHD4
